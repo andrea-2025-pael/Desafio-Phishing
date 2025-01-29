@@ -17,7 +17,8 @@ Phishing para captura de senha no facebook
 
 - **Resultado apresentado**
 - No caso abaixo, foi preciso mudar o URL, pois o facebook estava bloqueado para esse tipo de ação, então foi utilizado o instagram
-- ![Texto Alternativo](https://github.com/user-attachments/assets/e579ba74-031f-412c-8e61-284d0c52718d)
+- ![Texto Alternativo]![image](https://github.com/user-attachments/assets/11d8a56a-744a-4eb8-8071-008221abe36c)
+
   
 
 - 
